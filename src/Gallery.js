@@ -41,7 +41,6 @@ Gallery.propTypes = {
     count: PropTypes.number,
     imgProps: PropTypes.object,
     photos: PropTypes.arrayOf(PropTypes.string),
-    screenWidth: PropTypes.number.isRequired,
     size: PropTypes.number.isRequired
 }
 

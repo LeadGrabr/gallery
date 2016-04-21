@@ -1,6 +1,6 @@
 {
   "name": "@leadgrabr/gallery",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "Display a list of photos",
   "main": "dist/index.js",
   "scripts": {
