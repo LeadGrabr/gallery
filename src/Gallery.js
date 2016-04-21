@@ -44,3 +44,5 @@ Gallery.propTypes = {
     screenWidth: PropTypes.number.isRequired,
     size: PropTypes.number.isRequired
 }
+
+export default Gallery
